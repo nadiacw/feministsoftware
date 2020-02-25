@@ -1,6 +1,19 @@
 # feminist software art workshop/hack
+
+##[SIGN UP](https://) 
+
 ## what?
-a speculative art and design workshop for making sense of the current software and digital tools and imagining feminist software of the future. co-create art that represents these ideas.
+A speculative art and design workshop for making sense of the current software and digital tools and imagining feminist software of the future. co-create art that represents these ideas.
+
+## how?
+1. We will discuss the feminist values (intersectionality, environmental care, data privacy, reproductive rights, ...) that software could embody.
+2. Through different brain/body-storming activities we will prototype and create scenarios in which this software might be used, imagining different (maybe desired, maybe undesired) futures.
+3. The scenarios will be enacted and presented through a prototype, a sketch, a painting, a performance, a poem, any material/tangible form.
+
+The final contributions will be documented by participants and exhibited on a public website or in a public event in the future.
+
+## when / where?
+Sometime in late March or early April 2020 at KTH Royal Institute of Technology, Stockholm, Sweden.
 
 ## why?
 _“tech is currently designed in a way it helps maintaining the status quo of social inequality and the norms of consumerist, misogynist, racist, ableist, gender binarial and heteropatriarchal society.”_ [Transfeminist Tech](https://www.transfeministech.codingrights.org/about)
@@ -24,9 +37,12 @@ making informed decisions on which tools to use … _How do the digital tools an
 
 > TODO: provide examples (articles)
 
-## outcomes
-design/art provocations in the form of physical prototypes / notes / drawings / zines / performances. the artifacts or ideas will be exhibited.
 
-## inspiration
- [Feminist Cryptoparty “Digital Tools”: Weizenbaum Institut](https://www.weizenbaum-institut.de/en/events/feminist-cryptoparty-digital-tools/)
- [A Report on the Feminist Coding Workshop in p5.js – Aesthetic Programming](http://aestheticprogramming.siusoon.net/articles/a-report-on-the-feminist-coding-workshop-in-p5-js/)
+##[SIGN UP](https://) 
+
+## References
+ - [Feminist Cryptoparty “Digital Tools”: Weizenbaum Institut](https://www.weizenbaum-institut.de/en/events/feminist-cryptoparty-digital-tools/)
+ - [A Report on the Feminist Coding Workshop in p5.js – Aesthetic Programming](http://aestheticprogramming.siusoon.net/articles/a-report-on-the-feminist-coding-workshop-in-p5-js/)
+ - [Cyberfeminism - Monoskop](https://monoskop.org/Cyberfeminism)
+ - [FEMINIST INTERNET — About](https://feministinternet.com/about/)
+ - [CODING RIGHTS](https://www.codingrights.org/)
