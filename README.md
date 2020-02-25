@@ -1,6 +1,6 @@
 # feminist software art workshop/hack
 
-+-+-+-+-+-+-+-+-+[SIGN UP](https://)+-+-+-+-+-+-+-+-+
+[+-+-+-+-+-+-+-+-+SIGN UP+-+-+-+-+-+-+-+-+](https://)
 
 ## what?
 A speculative art and design workshop for making sense of the current software and digital tools and imagining feminist software of the future. co-create art that represents these ideas.
@@ -37,7 +37,8 @@ making informed decisions on which tools to use … _How do the digital tools an
 
 > TODO: provide examples (articles)
 
-+-+-+-+-+-+-+-+-+[SIGN UP](https://)+-+-+-+-+-+-+-+-+
+
+[+-+-+-+-+-+-+-+-+SIGN UP+-+-+-+-+-+-+-+-+](https://)
 
 
 
